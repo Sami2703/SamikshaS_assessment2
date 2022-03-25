@@ -1,0 +1,40 @@
+{
+  "customers": [
+    {
+      "id": 1,
+      "company_name": "MKCL",
+      "contact_firstname": "Samiksha",
+      "contact_lastname": "Sapat",
+      "contact_email": "samikshasapat@gmail.com",
+      "acquired_on": "2022-03-16",
+      "customer_status": "active"
+    },
+    {
+      "id": 2,
+      "company_name": "Infosys",
+      "contact_firstname": "Shweta",
+      "contact_lastname": "Pande",
+      "contact_email": "shwetapande@gmail.com",
+      "acquired_on": "2022-03-14",
+      "customer_status": "active"
+    },
+    {
+      "id": 3,
+      "company_name": "Cognizant",
+      "contact_firstname": " ayush",
+      "contact_lastname": "Rane",
+      "contact_email": "ayushrane@gmail.com",
+      "acquired_on": "2020-03-12",
+      "customer_status": "inactive"
+    },
+    {
+      "contact_firstname": "Rujuta",
+      "contact_lastname": "Chopade",
+      "contact_email": "samikshasapat03@gmail.com",
+      "company_name": "Infosys",
+      "acquired_on": "2022-01-12",
+      "customer_status": "active",
+      "id": 6
+    }
+  ]
+}
